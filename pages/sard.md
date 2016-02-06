@@ -29,7 +29,7 @@ permalink: /sard/
                 <!-- Blog Post -->
 
                 <!-- Preview Image -->
-                <img class="img-responsive" src="../A/img/fes4.jpg" alt="">
+                <img class="img-responsive" src="/A/img/fes4.jpg" alt="">
 
 
                 <hr>

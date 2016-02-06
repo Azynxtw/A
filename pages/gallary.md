@@ -24,47 +24,22 @@ permalink: /gallary/
         <div class="row">
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w10.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w10.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w13.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w13.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w11.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w11.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w1a.jpg" alt="">
-                </a>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <!-- Projects Row -->
-        <div class="row">
-            <div class="col-md-3 img-portfolio">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w2a.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 img-portfolio">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w3a.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 img-portfolio">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w4a.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 img-portfolio">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w5a.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w1a.jpg" alt="">
                 </a>
             </div>
         </div>
@@ -74,22 +49,47 @@ permalink: /gallary/
         <div class="row">
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w14.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w2a.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w7.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w3a.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w8.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w4a.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-3 img-portfolio">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-hover" src="../A/img/w9.jpg" alt="">
+                    <img class="img-responsive img-hover" src="/A/img/w5a.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Projects Row -->
+        <div class="row">
+            <div class="col-md-3 img-portfolio">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-hover" src="/A/img/w14.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-3 img-portfolio">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-hover" src="/A/img/w7.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-3 img-portfolio">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-hover" src="/A/img/w8.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-3 img-portfolio">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-hover" src="/A/img/w9.jpg" alt="">
                 </a>
             </div>
         </div>

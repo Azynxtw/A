@@ -36,13 +36,13 @@ permalink: /hos-si/
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img class="img-responsive" src="../A/img/hossi1.jpg" alt="">
+                            <img class="img-responsive" src="/A/img/hossi1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="../A/img/hossi3.jpg" alt="">
+                            <img class="img-responsive" src="/A/img/hossi3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="../A/img/hossi2.jpg" alt="">
+                            <img class="img-responsive" src="/A/img/hossi2.jpg" alt="">
                         </div>
                     </div>
 
