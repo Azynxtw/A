@@ -29,7 +29,7 @@ permalink: /hepra/
                 <!-- Blog Post -->
 
                 <!-- Preview Image -->
-                <img class="img-responsive" src="/img/fes5.jpg" alt="">
+                <img class="img-responsive" src="../A/img/fes5.jpg" alt="">
 
 
                 <hr>

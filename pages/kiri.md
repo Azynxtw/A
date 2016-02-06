@@ -29,7 +29,7 @@ permalink: /kiri/
                 <!-- Blog Post -->
 
                 <!-- Preview Image -->
-                <img class="img-responsive" src="/img/w2.jpg" alt="">
+                <img class="img-responsive" src="../A/img/w2.jpg" alt="">
 
 
                 <hr>

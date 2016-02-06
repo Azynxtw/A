@@ -29,7 +29,7 @@ permalink: /suddan/
                 <!-- Blog Post -->
 
                 <!-- Preview Image -->
-                <img class="img-responsive" src="/img/fes3.jpg" alt="">
+                <img class="img-responsive" src="../A/img/fes3.jpg" alt="">
 
 
                 <hr>

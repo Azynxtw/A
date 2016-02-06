@@ -36,13 +36,13 @@ permalink: /hos-su/
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img class="img-responsive" src="/img/hossu1.jpg" alt="">
+                            <img class="img-responsive" src="../A/img/hossu1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="/img/hossu2.jpg" alt="">
+                            <img class="img-responsive" src="../A/img/hossu2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="/img/hossu3.jpg" alt="">
+                            <img class="img-responsive" src="../A/img/hossu3.jpg" alt="">
                         </div>
                     </div>
 
